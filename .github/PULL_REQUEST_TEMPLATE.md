@@ -25,6 +25,7 @@ Before creating a PR, please make sure to verify the following by marking the ch
 
 <!-- TO NOTE
 
+
 1. Avoid a duplicate PR by searching through the open pull requests to check that there is not a PR already open that writes the same article or makes similar changes.
 
 2. If you edit a stub article, ensure your changes are substantial enough to justify removing the stub text (the "This article is a stub..." part).
@@ -36,6 +37,8 @@ Before creating a PR, please make sure to verify the following by marking the ch
 5. Any new folder you create in "src/pages" must have an index.md.
 
 6. All articles must have the following as the first three lines in the file:
+
+7. Enjoy coding!
 
 ---
 title: Article title goes here
